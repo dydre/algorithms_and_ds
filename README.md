@@ -1,1 +1,1 @@
-# algorithms_and_ds
+Repository for useful algorithms and data structures
